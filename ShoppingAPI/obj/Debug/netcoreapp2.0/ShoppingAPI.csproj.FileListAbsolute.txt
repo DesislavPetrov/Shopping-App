@@ -1,0 +1,11 @@
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.0\ShoppingAPI.deps.json
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.0\ShoppingAPI.runtimeconfig.json
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.0\ShoppingAPI.runtimeconfig.dev.json
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.0\ShoppingAPI.dll
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\bin\Debug\netcoreapp2.0\ShoppingAPI.pdb
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.0\ShoppingAPI.csprojResolveAssemblyReference.cache
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.0\ShoppingAPI.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.0\ShoppingAPI.AssemblyInfoInputs.cache
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.0\ShoppingAPI.AssemblyInfo.cs
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.0\ShoppingAPI.dll
+C:\Users\WinPC\source\repos\ShoppingAPI\ShoppingAPI\obj\Debug\netcoreapp2.0\ShoppingAPI.pdb
